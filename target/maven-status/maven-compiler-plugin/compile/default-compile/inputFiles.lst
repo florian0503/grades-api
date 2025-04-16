@@ -1,0 +1,17 @@
+/Users/dimbert/Downloads/demo/src/main/java/com/example/GradesApiApplication.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/controller/EvaluationController.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/controller/ParticipantController.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/controller/SummaryController.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/controller/TopicController.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/dto/EvaluationDTO.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/expectations/ResourceMissingException.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/model/Evaluation.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/model/Participant.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/model/Topic.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/repository/EvaluationRepository.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/repository/ParticipantRepository.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/repository/TopicRepository.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/service/EvaluationService.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/service/ParticipantService.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/service/SummaryService.java
+/Users/dimbert/Downloads/demo/src/main/java/com/example/gradesApi/service/TopicService.java
